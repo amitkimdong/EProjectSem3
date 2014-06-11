@@ -1,0 +1,104 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPageBussiness.master.cs" Inherits="Bussiness_MasterPageBussiness" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta charset="UTF-8">
+    <title>Bussiness Hopital</title>
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+    <div id="background">
+        <div id="page">
+            <div id="header">
+                <div id="logo">
+                    <a href="../index.aspx">
+                        <img src="images/logo.png" alt="LOGO"></a>
+                </div>
+                <div id="navigation">
+                    <ul id="primary">
+                        <li class="selected">
+                            <a href="bussiness.aspx">Bussiness</a>
+                        </li>
+                        <li>
+                            <a href="product.aspx">Medicine 1</a>
+                        </li>
+                        <li>
+                            <a href="product.aspx">Medicine 2</a>
+                        </li>
+                        <li>
+                            <a href="product.aspx">Medicine 3</a>
+                        </li>
+                    </ul>
+                    <ul id="secondary">
+                        <li>
+                            <a href="checkout.aspx">Cart</a>
+                        </li>
+                        <li>
+                            <a href="bussiness.aspx">Login</a> | <a href="bussiness.aspx">Signup</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div id="contents">
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="footer">
+                <div class="background">
+                    <div id="connect">
+                        <h5>Get Social With us!</h5>
+                        <ul>
+                            <li>
+                                <a href="#" target="_blank" class="facebook"></a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="twitter"></a>
+                            </li>
+                            <li>
+                                <a href="#" target="_blank" class="linkin"></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <ul class="navigation">
+                        <li>
+                            <h5>Home Main</h5>
+                            <a href="../index.aspx">Home</a> 
+                            <a href="../educations.aspx">Educations</a> 
+                            <a href="../scientific.aspx">Scientific</a> 
+                            <a href="../medical.aspx">Medical</a>
+                             
+                        </li>
+                        <li>
+                            <h5>Educations</h5>
+                            <a href="../educations.aspx">Articles</a>
+                            <a href="../educations.aspx">Author</a>
+                            <a href="../educations.aspx">News</a>
+                        </li>
+                        <li class="latest">
+                            <h5>Scientific</h5>
+                            <a href="../scientific.aspx">Articles</a>
+                            <a href="../scientific.aspx">Author</a>
+                            <a href="../scientific.aspx">News</a>
+                        </li>
+                        <li class="latest">
+                            <h5>Medical</h5>
+                            <a href="../medical.aspx">Articles</a>
+                            <a href="../medical.aspx">Author</a>
+                            <a href="../medical.aspx">News</a>
+                        </li>
+                    </ul>
+                    <p class="footnote">
+                        &copy; Copyirght &copy; 2014. <a href="../index.aspx">Bachkhoa-Aptech</a> all rights reserved.
+				
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
