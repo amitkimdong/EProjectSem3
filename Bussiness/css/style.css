@@ -274,7 +274,7 @@ ul.items {
             line-height: 24px;
             text-align: left;
             text-decoration: none;
-            y ---*'Tr:;
+            y ---*'Tr:;;;;;;;
         }
 
             ul.items li a:hover {
@@ -529,7 +529,6 @@ ul.items {
     font-family: 'Trebuchet MS';
     display: inline-block;
     width: 900px;
-    margin-bottom: 60px;
     padding: 42px 12px 0;
 }
 
@@ -689,6 +688,7 @@ ul.items {
             text-decoration: none;
         }
 
+
 #connect {
     float: right;
     color: #c0e073;
@@ -732,3 +732,33 @@ ul.items {
                 filter: alpha(opacity=80);
                 opacity: 0.8;
             }
+
+
+/*------------------------------ Comment ------------------------------*/
+
+.comment {
+    color: #636a86;
+    font-family: 'Trebuchet MS';
+    padding-left: 12px;
+    margin-bottom: 190px;
+}
+
+    .comment .read_comment {
+    }
+
+        .comment .read_comment .info_comment .avatar {
+            width: 80px;
+            height: 60px;
+            float: left;
+            border: 1px solid #e6b614;
+            margin: 0px 10px 0px 12px;
+        }
+
+        .comment .read_comment .info_comment .user {
+        }
+
+    .comment .write_comment {
+        float: left;
+        width: 380px;
+        margin-top: -23px;
+    }

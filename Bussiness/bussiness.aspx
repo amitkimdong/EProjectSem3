@@ -9,7 +9,7 @@
                     Search by Name, by vv
 					
                 </p>
-                <form action="index.html" method="post" id="form1" runat="server">
+                <form action="re_search.aspx" method="post" id="form1" runat="server">
                     <ul>
                         <li>
                             <select id="size">
@@ -30,7 +30,7 @@
                             <asp:TextBox ID="txtSeachbyName" runat="server" Text="Search by Name" Width="184px"></asp:TextBox>
                         </li>
                     </ul>
-                    <input type="submit" value="Find !" class="button">
+                    <input  type="submit" value="Find !" class="button" >
                 </form>
             </div>
             <img src="images/shop-now.jpg" height="355" width="618" alt="Promo">
