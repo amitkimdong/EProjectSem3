@@ -1,0 +1,21 @@
+E:\Web_ClinicManage\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+E:\Web_ClinicManage\DataAccess\bin\Debug\DataAccess.dll
+E:\Web_ClinicManage\DataAccess\bin\Debug\DataAccess.pdb
+E:\Web_ClinicManage\DataAccess\bin\Debug\Entity.dll
+E:\Web_ClinicManage\DataAccess\bin\Debug\Entity.pdb
+E:\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.dll
+E:\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\17. ITGroup\★\New folder\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\DataAccess\bin\Debug\DataAccess.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\DataAccess\bin\Debug\DataAccess.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\DataAccess\bin\Debug\Entity.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\DataAccess\bin\Debug\Entity.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\bin\Debug\DataAccess.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\bin\Debug\DataAccess.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\bin\Debug\Entity.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\bin\Debug\Entity.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.pdb

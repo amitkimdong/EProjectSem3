@@ -1,0 +1,30 @@
+E:\Web_ClinicManage\Web_ClinicManage\obj\Debug\ResolveAssemblyReference.cache
+E:\Web_ClinicManage\Web_ClinicManage\bin\Web_ClinicManage.dll
+E:\Web_ClinicManage\Web_ClinicManage\bin\Web_ClinicManage.pdb
+E:\Web_ClinicManage\Web_ClinicManage\bin\DataAccess.dll
+E:\Web_ClinicManage\Web_ClinicManage\bin\Entity.dll
+E:\Web_ClinicManage\Web_ClinicManage\bin\DataAccess.pdb
+E:\Web_ClinicManage\Web_ClinicManage\bin\Entity.pdb
+E:\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.dll
+E:\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\bin\Web_ClinicManage.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\bin\Web_ClinicManage.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\bin\DataAccess.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\bin\Entity.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\bin\DataAccess.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\bin\Entity.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.csprojResolveAssemblyReference.cache
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.csprojResolveAssemblyReference.cache
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\bin\Web_ClinicManage.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\bin\Web_ClinicManage.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\bin\DataAccess.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\bin\Entity.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\bin\DataAccess.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\bin\Entity.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.browser.default.connectors.aspx.connector.aspx.resources
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.upload.aspx.upload.aspx.resources
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.csproj.GenerateResource.Cache

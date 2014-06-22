@@ -1,0 +1,337 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Entity" priority="13" />
+      <Item value="foreach" priority="0" />
+      <Item value="cmd" priority="1" />
+      <Item value="parameter" priority="0" />
+      <Item value="obj" priority="28" />
+      <Item value="str" priority="11" />
+      <Item value="q" priority="91" />
+      <Item value="SqlDataProvider`0" priority="8" />
+      <Item value="public" priority="16" />
+      <Item value="static" priority="7" />
+      <Item value="DataTable`0" priority="1" />
+      <Item value="tbNewInfo`0" priority="0" />
+      <Item value="SqlCommand`0" priority="0" />
+      <Item value="new" priority="8" />
+      <Item value="SqlCommand" priority="0" />
+      <Item value="CommandType`0" priority="0" />
+      <Item value="tbNews" priority="1" />
+      <Item value="tbNewsInfo`0" priority="0" />
+      <Item value="using" priority="13" />
+      <Item value="System" priority="9" />
+      <Item value="Data" priority="8" />
+      <Item value="SqlClient" priority="3" />
+      <Item value="tbGroupNewInfo`0" priority="5" />
+      <Item value="tbGroupNew" priority="0" />
+      <Item value="tbBrandInfo`0" priority="4" />
+      <Item value="tbBrand" priority="1" />
+      <Item value="tbBrandInfo" priority="2" />
+      <Item value="tbCategory" priority="0" />
+      <Item value="tbProductInfo`0" priority="4" />
+      <Item value="tbProductInfo" priority="1" />
+      <Item value="tb" priority="1" />
+      <Item value="tbCommentProducInfo`0" priority="1" />
+      <Item value="tbCommentProduc" priority="0" />
+      <Item value="tbBill_CustomerInfo`0" priority="0" />
+      <Item value="tbCustomerInfo`0" priority="0" />
+      <Item value="tbCustomerInfo" priority="0" />
+      <Item value="tbRoleInfo`0" priority="5" />
+      <Item value="tbRoleInfo" priority="1" />
+      <Item value="ro" priority="3" />
+      <Item value="txtRoleName" priority="1" />
+      <Item value="insert" priority="3" />
+      <Item value="true" priority="17" />
+      <Item value="if" priority="5" />
+      <Item value="RoleController`0" priority="3" />
+      <Item value="RoleController" priority="0" />
+      <Item value="cl" priority="0" />
+      <Item value="_LoadRole`0" priority="0" />
+      <Item value="else" priority="3" />
+      <Item value="ID" priority="1" />
+      <Item value="string" priority="4" />
+      <Item value="e" priority="2" />
+      <Item value="switch" priority="1" />
+      <Item value="tbUserInfo`0" priority="1" />
+      <Item value="roleInfo" priority="4" />
+      <Item value="int" priority="10" />
+      <Item value="strId" priority="1" />
+      <Item value="dt" priority="3" />
+      <Item value="Id" priority="17" />
+      <Item value="pnUpdate" priority="5" />
+      <Item value="false" priority="12" />
+      <Item value="void" priority="5" />
+      <Item value="bool" priority="5" />
+      <Item value="pnView" priority="4" />
+      <Item value="act" priority="1" />
+      <Item value="View`0" priority="0" />
+      <Item value="ViewInput`0" priority="4" />
+      <Item value="txtName" priority="5" />
+      <Item value="txtUserName" priority="3" />
+      <Item value="txtAddress" priority="1" />
+      <Item value="txtEmail" priority="1" />
+      <Item value="txtPhone" priority="1" />
+      <Item value="chkActive" priority="2" />
+      <Item value="_LoadUser`0" priority="0" />
+      <Item value="Load" priority="0" />
+      <Item value="ddlRole" priority="0" />
+      <Item value="txtPass" priority="2" />
+      <Item value="DataGrid1" priority="7" />
+      <Item value="GroupNews`0" priority="0" />
+      <Item value="DataAccess" priority="4" />
+      <Item value="GroupNewsController`0" priority="4" />
+      <Item value="IsPostBack" priority="0" />
+      <Item value="tbGroupNewInfo" priority="2" />
+      <Item value="txtTag" priority="1" />
+      <Item value="txtLevel" priority="1" />
+      <Item value="txtTitle" priority="1" />
+      <Item value="txtDesciption" priority="1" />
+      <Item value="txtKeyword" priority="1" />
+      <Item value="txtOrd" priority="3" />
+      <Item value="txtPriority" priority="1" />
+      <Item value="txtIndex" priority="1" />
+      <Item value="Convert`0" priority="1" />
+      <Item value="txtLang" priority="2" />
+      <Item value="groupNewInfo" priority="3" />
+      <Item value="_loadGroup`0" priority="1" />
+      <Item value="grvUser_ItemCommand`0" priority="0" />
+      <Item value="PagerButtons`0" priority="0" />
+      <Item value="Security" priority="0" />
+      <Item value="BrandsController`0" priority="2" />
+      <Item value="InsertItemPosition`0" priority="0" />
+      <Item value="Insert" priority="1" />
+      <Item value="case" priority="1" />
+      <Item value="break" priority="1" />
+      <Item value="_LoadBrand`0" priority="0" />
+      <Item value="FCKeditor1" priority="0" />
+      <Item value="CustomersController`0" priority="1" />
+      <Item value="GridView1" priority="2" />
+      <Item value="DataAccess`0" priority="0" />
+      <Item value="IDataBoundItemControl`0" priority="0" />
+      <Item value="txtId" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="Parameters" priority="0" />
+      <Item value="CommandType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entity.tbUserInfo">
+      <Item value="Name" priority="1" />
+      <Item value="FullName" priority="0" />
+      <Item value="Username" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="Address" priority="0" />
+      <Item value="Email" priority="0" />
+      <Item value="Phone" priority="1" />
+      <Item value="Active" priority="0" />
+      <Item value="Status" priority="0" />
+      <Item value="RoleId" priority="0" />
+      <Item value="Id" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.CommandType">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entity.tbNewInfo">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entity.tbBrandInfo">
+      <Item value="Id" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entity.tbProductInfo">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entity.tbBilldetailInfo">
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataAccess.UserController">
+      <Item value="GetAll`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entity.tbRoleInfo">
+      <Item value="RoleName" priority="1" />
+      <Item value="Id" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="24" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataAccess.RoleController">
+      <Item value="Insert`0" priority="0" />
+      <Item value="GetById`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="GetAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DataGridCommandEventArgs">
+      <Item value="CommandArgument" priority="2" />
+      <Item value="CommandName" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="12" />
+      <Item value="MinValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataRow">
+      <Item value="Indexer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Panel">
+      <Item value="Visible" priority="11" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.CheckBox">
+      <Item value="Checked" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DropDownList">
+      <Item value="SelectedValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DataGrid">
+      <Item value="DataSource" priority="2" />
+      <Item value="DataBind`0" priority="2" />
+      <Item value="ItemCommand" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataAccess.GroupNewsController">
+      <Item value="GetAll`0" priority="0" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="GetBy_Id`0" priority="0" />
+      <Item value="Update`0" priority="0" />
+      <Item value="GetByColumn`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Entity.tbGroupNewInfo">
+      <Item value="Name" priority="0" />
+      <Item value="Tag" priority="0" />
+      <Item value="Level" priority="0" />
+      <Item value="Title" priority="0" />
+      <Item value="Description" priority="0" />
+      <Item value="Keyword" priority="0" />
+      <Item value="Ord" priority="1" />
+      <Item value="Priority" priority="0" />
+      <Item value="Index" priority="2" />
+      <Item value="Active" priority="0" />
+      <Item value="Lang" priority="0" />
+      <Item value="Id" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToBoolean`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataAccess.BrandsController">
+      <Item value="GetAll`0" priority="0" />
+      <Item value="GetByColumn`0" priority="0" />
+      <Item value="Delete`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FredCK.FCKeditorV2.FCKeditor">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@DataAccess.CustomersController">
+      <Item value="GetAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+      <Item value="Rows" priority="0" />
+      <Item value="SelectedRow" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Web_ClinicManage.DataAccess">
+      <Item value="GetData`0" priority="0" />
+      <Item value="ExecuteNonQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewRow">
+      <Item value="Cells" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableCell">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:GroupNews.aspx.cs" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:BillCustomers.aspx" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Product.aspx" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Category.aspx" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:Web.config" caret="496" fromTop="10" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:User.aspx.cs" caret="3196" fromTop="17" />
+      <File id="908F2847-7EA9-4316-834D-BBECBC3DFCC1/f:BrandsController.cs" caret="2552" fromTop="21" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Brands.aspx.cs" caret="1511" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:User.aspx" caret="254" fromTop="4" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:NewsDetail.aspx" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:NewsDetail.aspx.cs" caret="412" fromTop="18" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:News.aspx.cs" caret="620" fromTop="25" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Controls/f:admLeft.ascx" caret="4117" fromTop="20" />
+      <File id="A79C845B-8D4A-4123-88CA-CB14CF858ECF/f:tbUserInfo.cs" caret="181" fromTop="10" />
+      <File id="908F2847-7EA9-4316-834D-BBECBC3DFCC1/f:UserController.cs" caret="3163" fromTop="21" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:News.aspx" caret="737" fromTop="13" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:Role.aspx" caret="463" fromTop="8" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:GroupNews.aspx" caret="9072" fromTop="195" />
+      <File id="A79C845B-8D4A-4123-88CA-CB14CF858ECF/f:tbCustomerInfo.cs" caret="179" fromTop="10" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:Role.aspx.cs" caret="1738" fromTop="11" />
+      <File id="908F2847-7EA9-4316-834D-BBECBC3DFCC1/f:NewsController.cs" caret="4635" fromTop="12" />
+      <File id="908F2847-7EA9-4316-834D-BBECBC3DFCC1/f:SqlDataProvider.cs" caret="135" fromTop="4" />
+      <File id="908F2847-7EA9-4316-834D-BBECBC3DFCC1/f:CustomersController.cs" caret="280" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx" caret="3659" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:App_Themes/d:Admin/f:layout.css" caret="521" fromTop="8" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:DataAccess.cs" caret="1034" fromTop="8" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="850" fromTop="9" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:About.aspx" caret="554" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Brands.aspx.cs" caret="2249" fromTop="21" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:NewsDetail.aspx" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:NewsDetail.aspx.cs" caret="321" fromTop="10" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:NewsDetail.aspx.cs" caret="456" fromTop="16" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:News.aspx" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:News.aspx.cs" caret="409" fromTop="15" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:News.aspx.cs" caret="507" fromTop="20" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:News/f:News.aspx.cs" caret="641" fromTop="25" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Controls/f:admLeft.ascx" caret="4434" fromTop="20" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Controls/f:admLeft.ascx" caret="4117" fromTop="20" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:About.aspx" caret="0" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx" caret="3659" fromTop="5" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="1476" fromTop="20" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="197" fromTop="4" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="1476" fromTop="17" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="1476" fromTop="2" />
+      <File id="908F2847-7EA9-4316-834D-BBECBC3DFCC1/f:NewsController.cs" caret="4644" fromTop="12" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:DataAccess.cs" caret="3168" fromTop="31" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:DataAccess.cs" caret="2956" fromTop="106" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:DataAccess.cs" caret="442" fromTop="14" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx" caret="3659" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx" caret="3686" fromTop="0" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="610" fromTop="20" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="404" fromTop="12" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="893" fromTop="24" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="1486" fromTop="26" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="1258" fromTop="24" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="1258" fromTop="22" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/d:Product/f:Customers.aspx.cs" caret="1073" fromTop="15" />
+      <File id="8459F834-844D-4697-9AAD-A78527DDCBC9/f:About.aspx" caret="554" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>

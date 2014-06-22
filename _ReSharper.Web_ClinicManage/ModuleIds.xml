@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="8459F834-844D-4697-9AAD-A78527DDCBC9" ModuleId="Web_ClinicManage" />
+  <Module PersistentId="A79C845B-8D4A-4123-88CA-CB14CF858ECF" ModuleId="Entity" />
+  <Module PersistentId="908F2847-7EA9-4316-834D-BBECBC3DFCC1" ModuleId="DataAccess" />
+</Modules>

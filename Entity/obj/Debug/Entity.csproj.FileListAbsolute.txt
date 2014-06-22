@@ -1,0 +1,22 @@
+E:\17. ITGroup\INPROCCESS\Web_LuongTheVinh\Entity\bin\Debug\Entity.dll
+E:\17. ITGroup\INPROCCESS\Web_LuongTheVinh\Entity\bin\Debug\Entity.pdb
+E:\17. ITGroup\INPROCCESS\Web_LuongTheVinh\Entity\obj\Debug\Entity.dll
+E:\17. ITGroup\INPROCCESS\Web_LuongTheVinh\Entity\obj\Debug\Entity.pdb
+E:\17. ITGroup\INPROCCESS\Web_LuongTheVinh\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\01MyProject\Web_LuongTheVinh\Entity\bin\Debug\Entity.dll
+D:\01MyProject\Web_LuongTheVinh\Entity\bin\Debug\Entity.pdb
+D:\01MyProject\Web_LuongTheVinh\Entity\obj\Debug\Entity.dll
+D:\01MyProject\Web_LuongTheVinh\Entity\obj\Debug\Entity.pdb
+E:\Web_ClinicManage\Entity\bin\Debug\Entity.dll
+E:\Web_ClinicManage\Entity\bin\Debug\Entity.pdb
+E:\Web_ClinicManage\Entity\obj\Debug\ResolveAssemblyReference.cache
+E:\Web_ClinicManage\Entity\obj\Debug\Entity.dll
+E:\Web_ClinicManage\Entity\obj\Debug\Entity.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Entity\obj\Debug\Entity.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Entity\bin\Debug\Entity.dll
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Entity\bin\Debug\Entity.pdb
+E:\17. ITGroup\★\New folder\Web_ClinicManage\Entity\obj\Debug\Entity.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\bin\Debug\Entity.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\bin\Debug\Entity.pdb
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\obj\Debug\Entity.dll
+E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\obj\Debug\Entity.pdb
