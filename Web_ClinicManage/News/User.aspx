@@ -2,6 +2,12 @@
     CodeBehind="User.aspx.cs" Inherits="Web_ClinicManage.News.User" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="HeadContent" runat="server">
+    <style type="text/css">
+        .style1
+        {
+            height: 25px;
+        }
+    </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div class="PageName">
@@ -72,6 +78,9 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtName" runat="server" CssClass="text"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                        ControlToValidate="txtName" ErrorMessage="*Full Name not be empty" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -80,6 +89,9 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtUserName" runat="server" CssClass="TextShort"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                        ControlToValidate="txtUserName" ErrorMessage="*User not be empty" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -89,6 +101,9 @@
                 <td>
                     <asp:TextBox ID="txtPass" runat="server"></asp:TextBox>
                     &nbsp;
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
+                        ControlToValidate="txtPass" ErrorMessage="*PassWord not be empty" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -97,6 +112,9 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtAddress" runat="server" CssClass="text"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" 
+                        ControlToValidate="txtAddress" ErrorMessage="*Address not be empty" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -107,14 +125,27 @@
                 <td>
                     <asp:TextBox ID="txtEmail" runat="server" CssClass="text"></asp:TextBox>
                     &nbsp;
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" 
+                        ControlToValidate="txtEmail" Display="Dynamic" 
+                        ErrorMessage="*Email not be empty" ForeColor="Red" SetFocusOnError="True"></asp:RequiredFieldValidator>
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" 
+                        ControlToValidate="txtEmail" Display="Dynamic" ErrorMessage="*Email not valid" 
+                        ForeColor="Red" SetFocusOnError="True" 
+                        ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
                 </td>
             </tr>
             <tr>
-                <th>
+                <th class="style1">
                     <asp:Label ID="Label2" runat="server" Text="Phone:"></asp:Label>
                 </th>
-                <td>
+                <td class="style1">
                     <asp:TextBox ID="txtPhone" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator6" runat="server" 
+                        ControlToValidate="txtPhone" Display="Dynamic" 
+                        ErrorMessage="*Phone not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" 
+                        ControlToValidate="txtPhone" Display="Dynamic" ErrorMessage="*Phone not valid" 
+                        ForeColor="Red" ValidationExpression="\d{11}"></asp:RegularExpressionValidator>
                 </td>
             </tr>
             <tr>

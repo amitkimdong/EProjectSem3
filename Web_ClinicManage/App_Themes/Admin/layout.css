@@ -139,7 +139,10 @@ button 					{ padding: 1px 6px; }
 /*.TableUpdate #Link		{ display:block; }
 .TableUpdate #Content	{ display:none; }*/
 /*Style edit*/
-.editor-table{ font-size:12px; padding:10px; line-height:25px; border:1px; }
+.editor-table{ font-size:1
+.TableUpdate .text		{
+}
+der:1px; }
 .editor-table em{ color: Red; }
 .editor_label {font-weight:bold; width:150px; }
 .editor_field {font-weight:normal; }

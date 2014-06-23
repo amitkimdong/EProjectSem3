@@ -64,7 +64,9 @@
                     <asp:Label ID="lblName" runat="server" Text="Name:"></asp:Label>
                 </th>
                 <td>
-                    <asp:TextBox ID="txtName" runat="server" CssClass="text"></asp:TextBox>
+                    <asp:TextBox ID="txtName" runat="server" CssClass="text" Width="234px"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                        ControlToValidate="txtName" ErrorMessage="*Name not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -73,6 +75,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtLogo" runat="server" CssClass="TextShort"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                        ControlToValidate="txtLogo" ErrorMessage="*Logo not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
            
@@ -83,6 +87,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtOrd" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
+                        ControlToValidate="txtOrd" ErrorMessage="*Ord not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
           
@@ -92,6 +98,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtLang" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" 
+                        ControlToValidate="txtLang" ErrorMessage="*Lang not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>

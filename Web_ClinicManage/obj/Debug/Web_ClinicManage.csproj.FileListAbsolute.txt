@@ -28,3 +28,15 @@ E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicMana
 E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.browser.default.connectors.aspx.connector.aspx.resources
 E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.upload.aspx.upload.aspx.resources
 E:\00.OnlineShop4DVDS\Web_ClinicManage\Web_ClinicManage\obj\Debug\Web_ClinicManage.csproj.GenerateResource.Cache
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Web_ClinicManage.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Web_ClinicManage.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\DataAccess.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Entity.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\DataAccess.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Entity.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.csprojResolveAssemblyReference.cache
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.browser.default.connectors.aspx.connector.aspx.resources
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.upload.aspx.upload.aspx.resources
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.csproj.GenerateResource.Cache
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.pdb

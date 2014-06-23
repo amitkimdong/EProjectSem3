@@ -19,3 +19,10 @@ E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\bin\Debug\Entity.pdb
 E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
 E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.dll
 E:\00.OnlineShop4DVDS\Web_ClinicManage\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\DataAccess\bin\Debug\Entity.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\DataAccess\bin\Debug\Entity.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\DataAccess\obj\Debug\DataAccess.pdb

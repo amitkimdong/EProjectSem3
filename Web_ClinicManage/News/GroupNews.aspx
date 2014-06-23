@@ -79,6 +79,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtName" runat="server" CssClass="text"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" 
+                        ControlToValidate="txtName" ErrorMessage="*Name not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -87,6 +89,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtTag" runat="server" CssClass="TextShort"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" 
+                        ControlToValidate="txtTag" ErrorMessage="*Tag not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -96,6 +100,8 @@
                 <td>
                     <asp:TextBox ID="txtLevel" runat="server"></asp:TextBox>
                     &nbsp;
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" 
+                        ControlToValidate="txtLevel" ErrorMessage="*Level not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -104,6 +110,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtTitle" runat="server" CssClass="text"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator4" runat="server" 
+                        ControlToValidate="txtTitle" ErrorMessage="*Title not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -122,6 +130,9 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtKeyword" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator5" runat="server" 
+                        ControlToValidate="txtKeyword" ErrorMessage="*KeyWord not be empty" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -130,6 +141,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtOrd" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator6" runat="server" 
+                        ControlToValidate="txtOrd" ErrorMessage="*Ord not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -138,6 +151,9 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtPriority" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator7" runat="server" 
+                        ControlToValidate="txtPriority" ErrorMessage="*Priorityr not be empty" 
+                        ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -146,6 +162,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtIndex" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator8" runat="server" 
+                        ControlToValidate="txtIndex" ErrorMessage="*Index not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -162,6 +180,8 @@
                 </th>
                 <td>
                     <asp:TextBox ID="txtLang" runat="server"></asp:TextBox>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator9" runat="server" 
+                        ControlToValidate="txtLang" ErrorMessage="*Lang not be empty" ForeColor="Red"></asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>

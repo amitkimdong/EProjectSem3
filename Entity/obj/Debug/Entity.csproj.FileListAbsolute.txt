@@ -20,3 +20,7 @@ E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\bin\Debug\Entity.dll
 E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\bin\Debug\Entity.pdb
 E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\obj\Debug\Entity.dll
 E:\00.OnlineShop4DVDS\Web_ClinicManage\Entity\obj\Debug\Entity.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\bin\Debug\Entity.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\bin\Debug\Entity.pdb
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\obj\Debug\Entity.dll
+C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\obj\Debug\Entity.pdb
