@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web_ClinicManage", "Web_ClinicManage\Web_ClinicManage.csproj", "{8459F834-844D-4697-9AAD-A78527DDCBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{908F2847-7EA9-4316-834D-BBECBC3DFCC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entity", "Entity\Entity.csproj", "{A79C845B-8D4A-4123-88CA-CB14CF858ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8459F834-844D-4697-9AAD-A78527DDCBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8459F834-844D-4697-9AAD-A78527DDCBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8459F834-844D-4697-9AAD-A78527DDCBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8459F834-844D-4697-9AAD-A78527DDCBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{908F2847-7EA9-4316-834D-BBECBC3DFCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908F2847-7EA9-4316-834D-BBECBC3DFCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908F2847-7EA9-4316-834D-BBECBC3DFCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908F2847-7EA9-4316-834D-BBECBC3DFCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79C845B-8D4A-4123-88CA-CB14CF858ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79C845B-8D4A-4123-88CA-CB14CF858ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79C845B-8D4A-4123-88CA-CB14CF858ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79C845B-8D4A-4123-88CA-CB14CF858ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

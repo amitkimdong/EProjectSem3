@@ -1,0 +1,114 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Web_ClinicManage.HomeNews.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<title>Medical Hospital Website</title>
+    <link href="css/Show_Details.css" rel="stylesheet" />
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+</head>
+<body>
+    <div class="background">
+        <div class="page">
+            <a href="index.aspx" id="logo">clinic management online</a>
+            <div class="sidebar">
+                <ul>
+                    <li class="selected">
+                        <a href="index.aspx">Home</a>
+                    </li>
+                    <li>
+                        <a href="educations.aspx">Educations</a>
+                    </li>
+                    <li>
+                        <a href="contact.aspx">Contact</a>
+                    </li>
+                    <li>
+                        <a href="scientific.aspx">Scientific</a>
+                    </li>
+                    <li>
+                        <a href="../Bussiness/bussiness.aspx" target="_blank">Bussiness</a>
+                    </li>
+                    <li>
+                        <a href="medical.aspx">Medical</a>
+                    </li>
+                </ul>
+                <div class="first">
+                    <div>
+                        <h3>This is just a place holder</h3>
+                        <img src="images/man.jpg" alt="">
+                        <p>
+                            This is just a place holder, so you can  see what the site would look like.
+					
+                        </p>
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        <h3>This is just a place holder</h3>
+                        <p>
+                            You can replace all this text with your own text.
+					
+                        </p>
+                        <img src="images/doctors-and-nurse.jpg" alt="">
+                        <p>
+                            You can remove any link to our website from this website template, you&#39;re free to use this website template without linking back to us. You can remove any link to our website from this website template, you&#39;re free to use this website template without linking back to us. This is a place holder, so you can see what the site would look like.
+					
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="body">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        
+                    </asp:ContentPlaceHolder>
+            </div>
+            <div class="footer">
+                <div>
+                    <div>
+                        <h4>AboulUS</h4>
+                        <p>
+                            Address: 250 Hoang Quoc Viet Stress
+                            City: Ha Noi
+                            Country: Viet Nam
+					
+                        </p>
+                        <a href="index.aspx">Go To Home</a>
+                    </div>
+                    <div>
+                        <h4>Links</h4>
+                        <ul>
+                            <li class="selected">
+                                <a href="index.aspx">Home</a>
+                            </li>
+                            <li >
+                                <a href="educations.aspx">Educations</a>
+                            </li>
+                            <li>
+                                <a href="contact.aspx">Contact</a>
+                            </li>
+                            <li>
+                                <a href="scientific.aspx">Scientific</a>
+                            </li>
+                            <li>
+                                <a href="../Bussiness/bussiness.aspx">Bussiness</a>
+                            </li>
+                            <li>
+                                <a href="medical.aspx">Medical</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="connect">
+                        <h4>Keep In Touch</h4>
+                        <a href="#" id="twitter">twitter</a> <a href="#" id="facebook">facebook</a> <a href="#" id="googleplus">google+</a>
+                    </div>
+                </div>
+                <p>
+                    &#169; Copyright 2014. Team 2 - Sem III Bachkhoa-Aptech
+			
+                </p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

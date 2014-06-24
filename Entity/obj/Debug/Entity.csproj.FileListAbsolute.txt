@@ -24,3 +24,8 @@ C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\bin\Debug\Entity.dll
 C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\bin\Debug\Entity.pdb
 C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\obj\Debug\Entity.dll
 C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Entity\obj\Debug\Entity.pdb
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Entity\bin\Debug\Entity.dll
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Entity\bin\Debug\Entity.pdb
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Entity\obj\Debug\Entity.dll
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Entity\obj\Debug\Entity.pdb

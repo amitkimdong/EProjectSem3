@@ -40,3 +40,16 @@ C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_
 C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.csproj.GenerateResource.Cache
 C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.dll
 C:\Users\XepHinhFC\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.pdb
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Web_ClinicManage.dll.config
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Web_ClinicManage.dll
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Web_ClinicManage.pdb
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\DataAccess.dll
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Entity.dll
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\DataAccess.pdb
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\bin\Entity.pdb
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.csprojResolveAssemblyReference.cache
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.browser.default.connectors.aspx.connector.aspx.resources
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.fckeditor.editor.filemanager.upload.aspx.upload.aspx.resources
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.csproj.GenerateResource.Cache
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.dll
+C:\Users\Trinh\Documents\GitHub\EProjectSem3\Web_ClinicManage\obj\Debug\Web_ClinicManage.pdb
